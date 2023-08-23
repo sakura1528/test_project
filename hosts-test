@@ -1,0 +1,67 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+#127.0.0.1  www.xmind.net
+#192.168.1.20    git.tenorshare.cn
+#192.168.1.20    jira.tenorshare.cn
+#192.168.1.20    wiki.tenorshare.cn
+#192.168.1.20    zentao.tenorshare.cn
+#192.168.1.14    git_new.tenorshare.cn
+#192.168.1.20    git_new.tenorshare.cn
+
+#45.33.29.37 download.passfab.com
+
+
+192.168.1.29   go.hitpaw.com
+192.168.1.29   go.passfab.com
+192.168.1.29   go.tenorshare.com
+192.168.1.29   go.ultfone.com
+192.168.1.29   update.hitpaw.com
+192.168.1.29   update.passfab.com
+192.168.1.29   update.tenorshare.com
+192.168.1.29   update.ultfone.com
+192.168.1.29   check.mobie.app
+
+192.168.1.49   4winkey.com
+192.168.1.49   download.tenorshare.com
+192.168.1.49   download.tenorshare.jp
+192.168.1.49   download.tenorshare.ru
+192.168.1.49   download.tenorshare.net
+192.168.1.49   download.windowspasswordsrecovery.com
+192.168.1.49   download.tenorshare.es
+192.168.1.49   download.tenorshare.tw
+192.168.1.49   download.tenorshare.fr
+192.168.1.49   download.tenorshare.de
+192.168.1.49   download.tenorshare.kr
+192.168.1.49   download.tenorshare.nl
+192.168.1.49   download.passfab.com
+192.168.1.49   download.passfab.net
+192.168.1.49   download.hitpaw.com
+192.168.1.49   download.hitpaw.net
+192.168.1.49   download.any-data-recovery.com
+192.168.1.49   download.ultfone.com
+192.168.1.49   dl.tenorshare.net
+
+192.168.1.49   download.tenorshare.cn
+192.168.1.49   download.niuxuezhang.cn
+
+
+
